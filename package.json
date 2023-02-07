@@ -44,8 +44,6 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^7.5.0",
-    "eslint-config-trybe-frontend": "1.2.3",
-    "eslint-plugin-sonarjs": "^0.13.0"
+    "@trybe/eslint-config-frontend": "^1.8.3"
   }
 }
